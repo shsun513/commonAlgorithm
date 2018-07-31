@@ -4,7 +4,7 @@ import java.util.Scanner;
  * 
  * @ClassName:  DichotomySearch   
  * @Description:对于一维数组的查找我们采用一个for循环遍历一次数组就可以实现，但有时候当数组太大，用二分法来实现 
-				可以节省更多的内存，当然二分法也只能实现有序序列的查找，这里我们就以一个递增的数组来说
+				可以节省更多的内存，当然二分法也只能实现【有序】序列的查找，这里我们就以一个递增的数组来说
 				输入一个人数组，关于二分法的实现主要的就是设定一个中间值mid = （low + high）/2 
 				假设我们要查找的数为 findvalue 
  * @author: shsun 
