@@ -1,3 +1,4 @@
+package sort;
 /**
  * 
  * @ClassName:  InsertSort   
